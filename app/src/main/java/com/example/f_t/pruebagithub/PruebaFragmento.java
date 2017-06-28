@@ -24,6 +24,7 @@ public class PruebaFragmento extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_prueba_fragmento, container, false);
+        //hola
     }
 
 }
